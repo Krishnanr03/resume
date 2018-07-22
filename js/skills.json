@@ -1,7 +1,12 @@
 {
- "Professional": {
+ "Functional": {
+  "Customer Relationship": 15,
   "Planning & Strategy": 12,
   "Project Management": 6,
+  "Enterprise Architecture": 3,
+  "Agile development": 3,
+  "Pair programming": 3,
+  "Decision making": 10,
   "Cloud Technology": 3,
   "Diagraming": 15,
   "Wireframing": 6
@@ -11,9 +16,7 @@
   "Rally",
   "Github",
   "Sharepoint",
-  "Nexus",
-  "AccuRev",
-  "Dimentions"
+  "Nexus"
  ],
  "Architecture": [
    "TOGAF",
@@ -37,7 +40,7 @@
   "Single-page application",
   "Full stack development",
   "API Management and Integration",
-  "Scalable and fault-tolerant application",
+  "Scalable, Resilient and Fault-tolerant application",
   "Blue-green deployment",
   "CI/CD pipelines",
   "SQL Server 2016",
@@ -45,6 +48,7 @@
   "MySQL 5.7",
   "JAVA 8",
   "Kafka",
+  "Redis",
   "Steaming",
   "Big Data"
  ],
@@ -59,6 +63,7 @@
   "SSO Authentication",
   "JavaScript framework",
   "reactive framework",
+  "Load Balancing",
   "Jenkins",
   "Gradle",
   "Maven"
