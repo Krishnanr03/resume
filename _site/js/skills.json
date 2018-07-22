@@ -1,25 +1,10 @@
 {
- "general": {
-  "IT Management": 9,
-  "Process Definition": 10,
+ "Professional": {
   "Planning & Strategy": 12,
   "Project Management": 6,
-  "Project Lead": 6,
-  "Business Analysis": 12,
-  "Automation": 6,
   "Cloud Technology": 3,
-  "Reporting": 15,
-  "Quality Assurance": 12,
   "Diagraming": 15,
   "Wireframing": 6,
-  "Technical Writing": 3,
-  "Linux": 15,
-  "Desktop Applications": 14,
-  "Mobile Applications": 6,
-  "Web Applications": 15,
-  "Windows Services": 3,
-  "Big Data Processing": 3,
-  "Support Applications": 3
  },
  "collaboration": [
   "JIRA",
@@ -46,6 +31,7 @@
   "Spring",
   "Micro services",
   "12 factor app",
+  "Automation",
   "Service Oriented Architecture",
   "Messaging service",
   "Single-page application",

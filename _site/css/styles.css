@@ -8559,7 +8559,7 @@ html {
 
 @media (min-width: 1200px) {
   .job-summary,
-  .job-achievements,
+  .job-accomplishments,
   .job-responsibilities,
   .list-group {
     padding-left: 10px;
@@ -8700,7 +8700,7 @@ span.avoidwrap {
 
 .job-summary,
 .job-responsibilities,
-.job-achievements {
+.job-Accomplishments {
   padding-bottom: 5px;
 }
 
