@@ -30,31 +30,42 @@
   "AccuRev",
   "Dimentions"
  ],
- "visual": [
-  "Visio",
-  "Omnigraffle",
-  "Axure",
-  "Photoshop",
-  "Illustrator"
- ],
  "Architecture": [
    "TOGAF",
-   "Zachman"
+   "Zachman",
+   "Visio",
+   "Omnigraffle",
+   "Architecture assessment",
+   "Decision making",
+   "Network diagram",
+   "Business flow diagram",
+   "White boarding",
+   "Secquince diagram"
  ],
  "development": [
   "Spring",
   "Micro services",
+  "12 factor app",
+  "Service Oriented Architecture",
+  "Messaging service"
   "Single-page application",
   "Full stack development",
   "API Management and Integration",
   "Scalable and fault-tolerant application",
   "Blue-green deployment",
+  "CI CD pipelines",
   "SQL Server 2016",
   "Mongo DB",
   "MySQL 5.7",
   "JAVA 8",
+  "Kafka",
   "Steaming",
   "Big Data"
+ ],
+ "CRM": [
+   "Salesforce",
+   "MS Dynamics",
+   "Zuora Subscrption and Billing"
  ],
  "web-development": [
   "Web services",
