@@ -40,7 +40,7 @@
    "Network diagram",
    "Business flow diagram",
    "White boarding",
-   "Secquince diagram"
+   "Sequence diagram"
  ],
  "development": [
   "Spring",
@@ -65,7 +65,7 @@
  "CRM": [
    "Salesforce",
    "MS Dynamics",
-   "Zuora Subscrption and Billing"
+   "Subscription and Billing"
  ],
  "web-development": [
   "Web services",
