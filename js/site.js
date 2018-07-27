@@ -18,7 +18,8 @@ var skillsdata = (function() {
  return skills;
 })();
 
-//var skills = JSONTree.create(skillsdata);
+var skills = JSONTree.create(skillsdata);
+
 
 function expColToggle(x) {
  x.classList.toggle("expst");
