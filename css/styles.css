@@ -8389,7 +8389,7 @@ li:before {
 }
 
 .job-title {
-  background-color: rgb(242, 243, 244);
+  background-color: rgb(247, 247, 247);
 }
 
 .jstValue {
@@ -8521,6 +8521,55 @@ h5 {
   color: #000;
   float: right;
 }
+/*
+.skills-colst:after {
+  content: "+ ";
+  font-family: "Lucida Console";
+  padding-right: 5px;
+  top: -2px;
+  position: relative;
+  font-size: 1em;
+  color: #000;
+  float: right;
+}
+
+.skills-colst:before {
+  content: "- ";
+  font-family: "Lucida Console";
+  padding-right: 5px;
+  top: -2px;
+  position: relative;
+  font-size: 1em;
+  color: #000;
+  float: right;
+}
+*/
+
+.link-btn-info {
+  background-color: rgb(247, 247, 247);
+  color: #000;
+  border: none
+  padding: 10px 15px;
+  text-align: left;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.link-btn:after {
+  font-family: "Lucida Console";
+  content: "-";
+  float: right;
+  margin-left: 0px;
+  background-color: rgb(247, 247, 247);
+}
+/* Icon when the collapsible content is hidden */
+.link-btn.collapsed:after {
+  font-family: "Lucida Console";
+  content: "+";
+  float: right;
+  margin-left: 0px;
+  background-color: rgb(247, 247, 247);
+}
 
 .job-company-location {
   font-weight: bold;
@@ -8596,6 +8645,11 @@ h5 {
     display: yes;
   }
 
+  .skills-colst:before,
+  .skills-expst:before {
+    display: yes;
+  }
+
   sup {
     display: none;
   }
@@ -8617,4 +8671,12 @@ h5 {
     margin-top: 14mm;
     margin-bottom: 20mm;
   }
+
+  /*  Skills style */
+  li, .list-skills-item:before {
+    content: "-";
+    font-family: "Lucida Console";
+    top: 1px;
+  }
+
 }
